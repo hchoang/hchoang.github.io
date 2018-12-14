@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://cathoang.me',
     title: 'Blog by Cat Hoang',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Software Developer (PHP, Javascript), IoT Enthusiast',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -29,8 +29,6 @@ module.exports = {
       telegram: '#',
       twitter: '#',
       github: '#',
-      rss: '#',
-      vk: '#',
     },
   },
   plugins: [
