@@ -18,17 +18,13 @@ module.exports = {
         label: 'About me',
         path: '/about/',
       },
-      {
-        label: 'Contact me',
-        path: '/contact/',
-      },
     ],
     author: {
       name: 'Cat Hoang',
       email: 'cat.hoanghuy@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'hchoang',
     },
   },
   plugins: [
