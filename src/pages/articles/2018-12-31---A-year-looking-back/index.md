@@ -6,8 +6,8 @@ draft: false
 path: "/posts/a-year-looking-back/"
 category: "Self Reflection"
 tags:
-  - "Seft reflection"
-description: "A hornest self review, and future plan"
+  - "Seft Reflection"
+description: "The good, the bad and the urgly in 2018. Also future plan"
 ---
 
 So another year already passed, it has been really quick, I still remember the same day last year, I was in Vietnam, with my newlywed wife, and worried about the future. I just finish my Master degree at that time and was working in Woolworths. I earned 500 a week at that time, and now with a family. I worried that I can't afford to feed it. And now I am sitting at my desk, working as a full-time employee, earning a decent amount of money, and writing a blog to tell people how exciting I am about the up comming baby.
