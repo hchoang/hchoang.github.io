@@ -4,7 +4,7 @@ date: "2018-12-31"
 layout: post
 draft: false
 path: "/posts/a-year-looking-back/"
-category: "Arduino"
+category: "Self Reflection"
 tags:
   - "Seft reflection"
 description: "A hornest self review, and future plan"
