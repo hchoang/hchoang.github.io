@@ -4,7 +4,7 @@ layout: page
 path: "/about"
 ---
 
-My name is Cat Hoang, a Vietnamese Software Engineer, currently living in Sydney Australia. People say that I am a quiet guy but I do love to talk, my favourite topics: life and religion.
+My name is Cat Hoang, a Software Engineer living in Sydney Australia. People say that I am a quiet guy but I do love to talk, my favourite topics: life and religion.
 
 ![Book Reading](./1.jpeg)
 
