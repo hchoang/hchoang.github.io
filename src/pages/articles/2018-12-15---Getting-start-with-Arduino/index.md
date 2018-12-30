@@ -1,6 +1,6 @@
 ---
 title: How I set up my computer to work with Arduino
-date: "2018-10-18T16:51:00.000Z"
+date: "2018-12-18"
 layout: post
 draft: false
 path: "/posts/how-to-set-up-arduino/"
