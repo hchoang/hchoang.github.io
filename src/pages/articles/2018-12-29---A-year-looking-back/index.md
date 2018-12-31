@@ -1,6 +1,6 @@
 ---
 title: A Year Looking Back
-date: "2018-12-31"
+date: "2018-12-29"
 layout: post
 draft: false
 path: "/posts/a-year-looking-back/"
