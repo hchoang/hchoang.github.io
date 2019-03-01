@@ -1,6 +1,6 @@
 ---
 title: 2019 Reading Challenge
-date: "2018-31-12"
+date: "2018-12-31"
 layout: post
 draft: false
 path: "/posts/2019-reading-challenge-back/"
