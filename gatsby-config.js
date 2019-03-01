@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://cathoang.me',
     title: 'Blog by Cat Hoang',
     subtitle:
-      'Software Developer (PHP, Javascript), IoT Enthusiast',
+      'Husband and Father\nSoftware Engineer\nWill code for fun or money\nCan you offer me both?',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
