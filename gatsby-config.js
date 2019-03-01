@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://cathoang.me',
     title: 'Blog by Cat Hoang',
     subtitle:
-      'Husband and Father\nSoftware Engineer\nWill code for fun or money\nCan you offer me both?',
+      'A husband and to be a father',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,10 +20,10 @@ module.exports = {
       },
     ],
     author: {
-      name: 'Cat Hoang',
+      name: 'Huy Cat Hoang',
       email: 'cat.hoanghuy@gmail.com',
       telegram: '#',
-      twitter: '#',
+      twitter: 'catcon269',
       github: 'hchoang',
     },
   },
