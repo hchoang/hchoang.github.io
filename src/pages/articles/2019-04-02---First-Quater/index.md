@@ -14,8 +14,8 @@ description: ""
 
 Ngay từ đầu năm, mình đã xác định mục tiêu là đọc được nhiều sách hơn. Tuy nhiên, điều duy nhất cản trở mình thực hiện điều này là thời gian. Không phải mình quá bận rộn mà là mình không còn năng lượng vào thời gian cuối ngày, thời gian mà mình có thể đọc sách. Mình quyết định thử chuyển qua nghe sách nói để tận dụng thời gian mình di chuyển từ nhà đến chỗ làm và ngược lại. Lúc trước thì mình hay nghe podcast về khoa học hay kinh tế, bây giờ chỉ việc chuyển sang sách nói thôi. Theo mình tính thì trung bình mỗi cuốn sách nói mất khoảng 12 tiếng để nghe hết. Thời gian di chuyển từ nhà đến chỗ làm của mình là khoảng 40 phút, tức là 2/3 tiếng mỗi ngày.
 
-> 12 * 2/3 = 8
+> 12 / (2/3) = 18
 
-Vậy là mình mất 8 ngày để nghe một cuốn sách nói. Mình quyết định thử nghiệm trong 1 tháng và kết quả là trong tháng 3 mình hoàn tất 3 cuốn sách, trong khi với sách giấy thì mình 1 tháng đọc một cuốn.
+Vậy là mình mất 18 ngày để nghe một cuốn sách. Mình quyết định thử nghiệm trong 1 tháng và kết quả là trong tháng 3 mình hoàn tất 3 cuốn sách, trong khi với sách giấy thì mình 1 tháng đọc một cuốn.
 
 Nhìn chung thì tổng kết 3 tháng vừa qua thì kết quả khá tốt, cho dù có một số trục trặc nhỏ. Trong 3 tháng tới thì một số thứ sẽ trở nên khó khăn hơn khi con mình ra đời, nhưng mình đã chuẩn bị tinh thần khá kĩ cho mọi tình huống, hi vọng mọi thứ sẽ tốt đẹp, giống như mọi người thường nói: "Hope for the best, prepare for the worst".
