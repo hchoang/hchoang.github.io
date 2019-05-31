@@ -34,3 +34,15 @@ Since 2019 will start on Tuesday, I will start the challenge on December 31st, 2
 6 months progress update
 
 ![progress 6 month](./6-months.png)
+
+## Book I Love
+
+- The Travelling Cat Chronicals
+- Bad Blood
+- This is Going to Hurt
+- Sapiens: A Brief History of Humankind
+
+## Book I Hate
+
+- Burned Alive
+- Ender's Game
