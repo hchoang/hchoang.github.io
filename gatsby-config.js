@@ -15,7 +15,7 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'CV',
+        label: 'Resume',
         path: '/resume/',
       },
       {
