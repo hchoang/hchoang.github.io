@@ -6,18 +6,23 @@ module.exports = {
     url: 'https://cathoang.me',
     title: 'Blog by Cat Hoang',
     subtitle:
-      'A husband and to be a father',
+      'A husband, father',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Blog',
         path: '/',
+      },
+      {
+        label: 'CV',
+        path: '/resume/',
       },
       {
         label: 'About me',
         path: '/about/',
       },
+
     ],
     author: {
       name: 'Huy Cat Hoang',
