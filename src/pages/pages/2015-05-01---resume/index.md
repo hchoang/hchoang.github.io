@@ -41,7 +41,8 @@ Responsibility:
 Technical Experience
 --------------------
 
-My Cool Side Project
+Heartbug System
+
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
@@ -49,7 +50,8 @@ My Cool Side Project
       indentation levels in the markdown source.
     * Second item.
 
-Open Source
+Feel The Beat - AF Awareness [link](http://www.hearts4heart.org.au/event/atrial-fibrillation-awareness-month-feel-the-beat/#)
+
 :   List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
@@ -58,19 +60,17 @@ Open Source
 
 Programming Languages
 
-:   **PHP:** Description
+:   **Skills:** Java, Kotlin, Swift, PHP, Javascript, Bash
 
-:   **Javascript:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Backend Framework:** Laravel, Symfony
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Frontend Framework:** JQuery, Vue.js, Electron.js
 
-:   Basic knowledge of **Go**, **x86 assembly**, **forth**, **Common Lisp**
+:   **Tools:** PHPStorm, Android Studio, Xcode, VSCode, Sublime
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   **Version Control:** Git, SVN
+
+:   Basic knowledge of **Go**, **Python**
 
 Hobby
 -----
