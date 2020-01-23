@@ -11,6 +11,7 @@ description: "Tản mạn"
 ---
 
 Cách đây vài hôm, mình đọc được một đoạn tweet được share online như sau
+![test](ayoQwxp_700bwp.webp)
 
 Cảm giác của mình vừa tức giận vừa cảm thông
 Tức giận bởi vì không hiểu tại sao nhiều người lại có cái nhìn bi quan như vậy, 
