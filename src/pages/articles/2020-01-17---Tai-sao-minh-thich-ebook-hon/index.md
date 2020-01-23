@@ -1,6 +1,6 @@
 ---
 title: "Tại sao mình thích ebook hơn sách giấy"
-date: "2019-01-17"
+date: "2020-01-17"
 layout: post
 draft: false
 path: "/posts/tai-sao-minh-thich-ebook-hon-sach-giay/"

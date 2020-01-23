@@ -1,6 +1,6 @@
 ---
 title: "Cuộc sống không chỉ là như thế"
-date: "2019-01-22"
+date: "2020-01-22"
 layout: post
 draft: true
 path: "/posts/cuoc-song-khong-chi-la-nhu-the/"
